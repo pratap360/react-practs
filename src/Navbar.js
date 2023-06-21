@@ -1,3 +1,6 @@
+// import { Link } from 'react-router-dom'; 
+// above link import is not working 
+
 const Navbar = () => {
     return ( 
         <nav className="navbar">
@@ -15,3 +18,5 @@ const Navbar = () => {
 }
  
 export default Navbar;
+
+
